@@ -1,0 +1,20 @@
+D:\VB\Sözlük Yapımı\bin\Debug\Sözlük Yapımı.exe.config
+D:\VB\Sözlük Yapımı\bin\Debug\Sözlük Yapımı.exe
+D:\VB\Sözlük Yapımı\bin\Debug\Sözlük Yapımı.pdb
+D:\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.csprojAssemblyReference.cache
+D:\VB\Sözlük Yapımı\obj\Debug\Sözlük_Yapımı.Form1.resources
+D:\VB\Sözlük Yapımı\obj\Debug\Sözlük_Yapımı.Properties.Resources.resources
+D:\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.csproj.GenerateResource.cache
+D:\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.exe
+D:\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.pdb
+D:\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.csproj.CoreCompileInputs.cache
+D:\Derslerim\VB\Sözlük Yapımı\bin\Debug\Sözlük Yapımı.exe.config
+D:\Derslerim\VB\Sözlük Yapımı\bin\Debug\Sözlük Yapımı.exe
+D:\Derslerim\VB\Sözlük Yapımı\bin\Debug\Sözlük Yapımı.pdb
+D:\Derslerim\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.csprojAssemblyReference.cache
+D:\Derslerim\VB\Sözlük Yapımı\obj\Debug\Sözlük_Yapımı.Form1.resources
+D:\Derslerim\VB\Sözlük Yapımı\obj\Debug\Sözlük_Yapımı.Properties.Resources.resources
+D:\Derslerim\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.csproj.GenerateResource.cache
+D:\Derslerim\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.csproj.CoreCompileInputs.cache
+D:\Derslerim\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.exe
+D:\Derslerim\VB\Sözlük Yapımı\obj\Debug\Sözlük Yapımı.pdb
